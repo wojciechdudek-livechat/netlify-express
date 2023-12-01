@@ -1,0 +1,7 @@
+{
+  "name": "netlify-express",
+  "scripts": {
+    "build": "echo test"
+  },
+  "devDependencies": {}
+}

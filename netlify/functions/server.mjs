@@ -1,4 +1,4 @@
-import { round } from "mathjs";
+import { round, e } from "mathjs";
 
 export default async (req, context) => {
   return new Response(`Hello, world! ${round(e, 3)}`);

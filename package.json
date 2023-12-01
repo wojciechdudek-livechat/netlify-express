@@ -1,7 +1,6 @@
 {
   "name": "netlify-express",
-  "scripts": {
-    "build": "echo test"
-  },
-  "devDependencies": {}
+  "dependencies": {
+    "mathjs": "^12.1.0"
+  }
 }
